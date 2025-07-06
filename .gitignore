@@ -10,7 +10,7 @@ Thumbs.db
 env/
 venv/
 
-# Encoded seed folders (optional — if you don't want them tracked)
+# Encoded seed folders
 [0-9]*/  # Folders named by seeds
 
 # Logs or temp files (if added later)
