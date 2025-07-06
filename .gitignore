@@ -1,0 +1,17 @@
+# Bytecode
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment (if used later)
+env/
+venv/
+
+# Encoded seed folders (optional — if you don't want them tracked)
+[0-9]*/  # Folders named by seeds
+
+# Logs or temp files (if added later)
+*.log
